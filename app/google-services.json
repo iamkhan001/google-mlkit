@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8077082122",
+    "firebase_url": "https://reception-6b5b2.firebaseio.com",
+    "project_id": "reception-6b5b2",
+    "storage_bucket": "reception-6b5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8077082122:android:6b3dec0a3e8d1fb61b29f3",
+        "android_client_info": {
+          "package_name": "sg.mirobotic.face.roboreception"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8077082122-gkgs1ksmgp0a5pvgkf1bmsec0gli2g0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvM_JpjPe8hB9YE71gqI0ckDpMVMu42ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8077082122-gkgs1ksmgp0a5pvgkf1bmsec0gli2g0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
